@@ -1,0 +1,14 @@
+C:\Users\aluno\Desktop\CALCULADORA\CALCULADORA\bin\Debug\net8.0\CALCULADORA.exe
+C:\Users\aluno\Desktop\CALCULADORA\CALCULADORA\bin\Debug\net8.0\CALCULADORA.deps.json
+C:\Users\aluno\Desktop\CALCULADORA\CALCULADORA\bin\Debug\net8.0\CALCULADORA.runtimeconfig.json
+C:\Users\aluno\Desktop\CALCULADORA\CALCULADORA\bin\Debug\net8.0\CALCULADORA.dll
+C:\Users\aluno\Desktop\CALCULADORA\CALCULADORA\bin\Debug\net8.0\CALCULADORA.pdb
+C:\Users\aluno\Desktop\CALCULADORA\CALCULADORA\obj\Debug\net8.0\CALCULADORA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\CALCULADORA\CALCULADORA\obj\Debug\net8.0\CALCULADORA.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\CALCULADORA\CALCULADORA\obj\Debug\net8.0\CALCULADORA.AssemblyInfo.cs
+C:\Users\aluno\Desktop\CALCULADORA\CALCULADORA\obj\Debug\net8.0\CALCULADORA.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\CALCULADORA\CALCULADORA\obj\Debug\net8.0\CALCULADORA.dll
+C:\Users\aluno\Desktop\CALCULADORA\CALCULADORA\obj\Debug\net8.0\refint\CALCULADORA.dll
+C:\Users\aluno\Desktop\CALCULADORA\CALCULADORA\obj\Debug\net8.0\CALCULADORA.pdb
+C:\Users\aluno\Desktop\CALCULADORA\CALCULADORA\obj\Debug\net8.0\CALCULADORA.genruntimeconfig.cache
+C:\Users\aluno\Desktop\CALCULADORA\CALCULADORA\obj\Debug\net8.0\ref\CALCULADORA.dll
