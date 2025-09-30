@@ -1,0 +1,14 @@
+C:\Users\aluno\Desktop\UrnaEletronica\UrnaEletronica\bin\Debug\net8.0\UrnaEletronica.exe
+C:\Users\aluno\Desktop\UrnaEletronica\UrnaEletronica\bin\Debug\net8.0\UrnaEletronica.deps.json
+C:\Users\aluno\Desktop\UrnaEletronica\UrnaEletronica\bin\Debug\net8.0\UrnaEletronica.runtimeconfig.json
+C:\Users\aluno\Desktop\UrnaEletronica\UrnaEletronica\bin\Debug\net8.0\UrnaEletronica.dll
+C:\Users\aluno\Desktop\UrnaEletronica\UrnaEletronica\bin\Debug\net8.0\UrnaEletronica.pdb
+C:\Users\aluno\Desktop\UrnaEletronica\UrnaEletronica\obj\Debug\net8.0\UrnaEletronica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\UrnaEletronica\UrnaEletronica\obj\Debug\net8.0\UrnaEletronica.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\UrnaEletronica\UrnaEletronica\obj\Debug\net8.0\UrnaEletronica.AssemblyInfo.cs
+C:\Users\aluno\Desktop\UrnaEletronica\UrnaEletronica\obj\Debug\net8.0\UrnaEletronica.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\UrnaEletronica\UrnaEletronica\obj\Debug\net8.0\UrnaEletronica.dll
+C:\Users\aluno\Desktop\UrnaEletronica\UrnaEletronica\obj\Debug\net8.0\refint\UrnaEletronica.dll
+C:\Users\aluno\Desktop\UrnaEletronica\UrnaEletronica\obj\Debug\net8.0\UrnaEletronica.pdb
+C:\Users\aluno\Desktop\UrnaEletronica\UrnaEletronica\obj\Debug\net8.0\UrnaEletronica.genruntimeconfig.cache
+C:\Users\aluno\Desktop\UrnaEletronica\UrnaEletronica\obj\Debug\net8.0\ref\UrnaEletronica.dll
